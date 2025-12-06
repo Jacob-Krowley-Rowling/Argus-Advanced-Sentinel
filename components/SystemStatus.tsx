@@ -51,10 +51,10 @@ const SystemStatus: React.FC = () => {
       <div className="mt-8 pt-4 border-t border-cyan-500/20">
         <h3 className="text-md font-bold text-cyan-400 mb-4 font-orbitron">DIAGNOSTICS</h3>
         <div className="text-xs space-y-2">
-            <p>> Running cognitive model: gemini-2.5-pro</p>
-            <p>> Heuristic integrity: 99.98%</p>
-            <p>> Last reboot: 274 cycles ago</p>
-            <p>> Quantum entanglement: Nominal</p>
+            <p>&gt; Running cognitive model: gemini-2.5-pro</p>
+            <p>&gt; Heuristic integrity: 99.98%</p>
+            <p>&gt; Last reboot: 274 cycles ago</p>
+            <p>&gt; Quantum entanglement: Nominal</p>
         </div>
       </div>
       
